@@ -17,6 +17,25 @@ This project aims to analyze customer behavior and predict churn using machine l
 
 ---
 
+##📊 Tools & Technologies:
+
+Python (pandas, scikit-learn, xgboost)
+
+Jupyter Notebook
+
+Power BI Desktop
+
+Machine Learning: Classification, Feature Importance, Model Evaluation
+
+---
+##💡 Goals:
+
+Identify key factors influencing customer churn
+
+Build a reliable predictive model to classify churned customers
+
+Visualize insights through an executive-friendly Power BI dashboard
+
 ## 💻 How to Run
 
 ### 1. Run the Jupyter Notebook
