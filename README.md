@@ -15,6 +15,11 @@ This project aims to analyze customer behavior and predict churn using machine l
   - Key churn drivers
 - `requirements.txt` – Required Python packages to run the notebook.
 
+
+## 📸 Power BI Dashboard Preview
+
+![Dashboard](dashboard_sample.png)
+
 ---
 
 ##📊 Tools & Technologies:
